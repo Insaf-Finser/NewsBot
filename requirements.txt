@@ -5,3 +5,4 @@ uvicorn
 alembic
 python-dotenv
 pydantic-settings
+python-telegram-bot
